@@ -69,4 +69,15 @@
     padding: 0 7px;
     border-radius: 3px;
   }
+  .head {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: #F4E0B9;
+    margin: 0;
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    transform: translateX(-50%);
+}
 
